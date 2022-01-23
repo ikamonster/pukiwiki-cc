@@ -33,4 +33,4 @@ cc.inc.php を PukiWiki の plugin ディレクトリに配置してください
 
 |定数名|値|既定値|意味|
 |:---|:---:|:---|:---|
-|PLUGIN_CC_COLOR|CENTER:カラーコード文字列||アイコン色（例：'#FFFFFF'）。空なら黒|
+|PLUGIN_CC_COLOR|カラーコード文字列||アイコン色（例：'#FFFFFF'）。空なら黒|
